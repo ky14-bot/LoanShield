@@ -1,0 +1,6 @@
+<svg width="120" height="40" viewBox="0 0 120 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="6" y="8" width="24" height="24" rx="4" fill="#004C8F"/>
+  <path d="M12 14H24M12 20H24M12 26H20" stroke="#F7F7F7" stroke-width="2" stroke-linecap="round"/>
+  <text x="38" y="25" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#004C8F">HDFC</text>
+  <text x="38" y="33" font-family="Arial, sans-serif" font-size="7" fill="#004C8F" opacity="0.7">BANK</text>
+</svg>

@@ -1,0 +1,6 @@
+<svg width="120" height="40" viewBox="0 0 120 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="18" cy="20" r="16" fill="#F7941E"/>
+  <path d="M11 20L18 12L25 20L18 28L11 20Z" fill="#F7F7F7"/>
+  <path d="M14 20L18 16L22 20L18 24L14 20Z" fill="#F7941E"/>
+  <text x="40" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#F7941E">ICICI</text>
+</svg>

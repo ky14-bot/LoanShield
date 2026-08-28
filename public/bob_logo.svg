@@ -1,0 +1,6 @@
+<svg width="120" height="40" viewBox="0 0 120 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="18" cy="20" r="16" fill="#E8A800"/>
+  <path d="M11 22L18 14L25 22L22 25L18 20L14 25L11 22Z" fill="#F7F7F7"/>
+  <text x="40" y="22" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#E8A800">Bank of</text>
+  <text x="40" y="32" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#E8A800">Baroda</text>
+</svg>
