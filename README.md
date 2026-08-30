@@ -32,7 +32,11 @@ An unknown lender is not automatically classified as fraudulent.
 
 ## Technology
 
-React, TypeScript, Tailwind CSS, and rule-based verification logic.
+- React
+- TypeScript
+- Tailwind CSS
+- Rule-based verification logic
+- Bolt.new
 
 ## Prototype
 
