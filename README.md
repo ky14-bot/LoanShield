@@ -2,8 +2,6 @@
 
 [![Open in Bolt](https://bolt.new/static/open-in-bolt.svg)](https://bolt.new/~/sb1-7ngtl7nq)
 
-# LoanShield
-
 LoanShield is a web-based platform that helps users verify digital lending apps and lenders before sharing money or personal information.
 
 ## Problem
