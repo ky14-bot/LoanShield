@@ -30,6 +30,16 @@ The prototype currently supports:
 
 An unknown lender is not automatically classified as fraudulent.
 
+## Demo
+
+The prototype demonstrates three verification outcomes:
+
+- **KreditBee** — Verified
+- **QuickCash Pro** — High Risk
+- **SunriseCash Finance** — Unable to Verify
+
+The third state is intentional: an unknown lender is not automatically considered fraudulent.
+
 ## Technology
 
 - React
